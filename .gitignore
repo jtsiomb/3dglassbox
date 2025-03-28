@@ -1,0 +1,13 @@
+*.o
+*.swp
+*.d
+*.bak
+*.bck
+*.dcm
+*-cache.lib
+*.kicad_prl
+*.eep
+*.hex
+*.map
+fw/3dglassbox
+*.zip
