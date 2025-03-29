@@ -500,7 +500,7 @@
       "idf": "",
       "netlist": "",
       "plot": "gerber",
-      "pos_files": "",
+      "pos_files": "jlcpcb_asm",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
