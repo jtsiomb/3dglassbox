@@ -21,8 +21,8 @@ int main(void)
 {
 	/* B0: PWM output, B4: stereo input */
 
-	DDRB = 0x07;	/* B[0,2] outputs, B[3,5] inputs */
-	PORTB = 0xfd;	/* disable pullups on B1 */
+	DDRB = 0x03;	/* B[0,1] outputs, B[2,5] inputs */
+	PORTB = 0xef;	/* disable pullup on B4 */
 
 	power_timer0_enable();
 
