@@ -13,6 +13,8 @@ Supported shutter glasses:
   - StereoGraphics CrystalEyes (IR)
   - ASUS VR100 (wired)
 
+**Current status**: Under development. Not ready for use.
+
 License
 -------
 Copyright (C) 2025 John Tsiombikas <nuclear@mutantstargoat.com>
